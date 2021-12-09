@@ -1,8 +1,8 @@
-<h2 align="centre"> 𝚅𝙴𝙽𝙾𝙼 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃🔥</h2>
+<h2 align="centre"> 𝙿𝙸𝙺𝙰𝙲𝙷𝚄 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃🔥</h2>
 
-### 𝚅𝙴𝙽𝙾𝙼 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### 𝙿𝙸𝙺𝙰𝙲𝙷𝚄 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/V3N0M_0P"><img src="https://telegra.ph/file/82d3a1f1fb27c0a5cea4a.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/dp_world_xD"><img src="https://telegra.ph/file/a68d184280888b3e7119a.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -63,7 +63,7 @@
 - .ʏᴇꜱ - ᴀᴘᴘʀᴏᴠᴇ ᴜꜱᴇʀ ꜰᴏʀ ꜱᴇɴᴅɪɴɢ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀꜱꜱɪꜱᴛᴀɴᴛ
 - .ɴᴏ - ᴅɪꜱᴀᴘᴘʀᴏᴠᴇ ᴜꜱᴇʀ ꜰᴏʀ ꜱᴇɴᴅɪɴɢ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀꜱꜱɪꜱᴛᴀɴᴛ
 
-## 🔎 ꜱᴜᴘᴘᴏʀᴛ ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ
+## 💫 ꜱᴜᴘᴘᴏʀᴛ ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 💜
 ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
 
@@ -82,4 +82,4 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/V3nom_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/V3N0M_0P"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Swamiji021"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/V3N0M_0P"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
